@@ -1,0 +1,14 @@
+C:\Users\anyur\Documents\prog\C#\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+C:\Users\anyur\Documents\prog\C#\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+C:\Users\anyur\Documents\prog\C#\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+C:\Users\anyur\Documents\prog\C#\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\C#\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\anyur\Documents\prog\C#\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\anyur\Documents\prog\C#\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\C#\Mediator\obj\Debug\netcoreapp3.1\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\C#\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\C#\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\C#\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\C#\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\anyur\Documents\prog\C#\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\anyur\Documents\prog\C#\Mediator\obj\Debug\netcoreapp3.1\Mediator.genruntimeconfig.cache

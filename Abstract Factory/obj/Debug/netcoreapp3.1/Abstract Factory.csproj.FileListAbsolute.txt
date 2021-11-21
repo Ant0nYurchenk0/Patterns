@@ -1,0 +1,14 @@
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.exe
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.deps.json
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.runtimeconfig.json
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.dll
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\bin\Debug\netcoreapp3.1\Abstract Factory.pdb
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.dll
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.pdb
+C:\Users\anyur\Documents\prog\C#\Abstract Factory\obj\Debug\netcoreapp3.1\Abstract Factory.genruntimeconfig.cache

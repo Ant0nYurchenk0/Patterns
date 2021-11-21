@@ -1,0 +1,14 @@
+C:\Users\anyur\Documents\prog\C#\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\anyur\Documents\prog\C#\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\anyur\Documents\prog\C#\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\anyur\Documents\prog\C#\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\anyur\Documents\prog\C#\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\anyur\Documents\prog\C#\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\anyur\Documents\prog\C#\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.AssemblyReference.cache
+C:\Users\anyur\Documents\prog\C#\Prototype\obj\Debug\netcoreapp3.1\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyur\Documents\prog\C#\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\anyur\Documents\prog\C#\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\anyur\Documents\prog\C#\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\anyur\Documents\prog\C#\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\anyur\Documents\prog\C#\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\anyur\Documents\prog\C#\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
